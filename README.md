@@ -45,7 +45,7 @@ github.com/rehylas/wxmgo
 ![Image text](http://www.bangnikanzhe.com/img/wxm.jpg)
 
 #  如何获得 name 和 pwd  , 扫码并关注, 会自动获得 name 和 pwd：
-![Image text](http://www.bangnikanzhe.com/img/bnkz.jpg)
+![Image text](http://www.bangnikanzhe.com/img/bnkz10001.jpg)
 
 
 
